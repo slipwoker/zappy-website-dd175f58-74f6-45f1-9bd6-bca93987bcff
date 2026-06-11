@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600&display=swap');
+
 
 
 /* Self-hosted fonts (Inter + Rubik for multi-language support) */
@@ -7007,6 +7009,23 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 body { font-family: 'Cormorant Garamond', sans-serif; font-weight: 400; }
 h1, h2, h3, h4, h5, h6 { font-family: 'Cormorant Garamond', sans-serif; font-weight: 400; }
 
+
+:root {
+  --font-heading: 'Cormorant Garamond', serif;
+  --font-body: 'Cormorant Garamond', serif;
+}
+
+body {
+  font-family: 'Cormorant Garamond', serif;
+}
+
+:root {
+  --nav-bg: var(--background-color);
+  --nav-text: var(--text-color);
+  --border-light: #E0D9CC;
+  --border-dark: #3D5650;
+  --text-muted: #7A766C;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
