@@ -7,33 +7,33 @@
 ## Pages
 
 ### Home
-https://hibernian-hall-dd175f58.zappy5.app
+https://example.com
 Discover Hibernian Hall, where hospitality &amp; events meet Irish charm. From corporate events to weddings, our elegant catering venue makes every occasion unforgettable. Plan your celebration today!
 
 ### Events
-https://hibernian-hall-dd175f58.zappy5.app/events
+https://example.com/events
 Explore our versatile catering venue for baby showers, engagement parties, and grand weddings. Blending Irish warmth with polished hospitality &amp; events, we bring your vision to life. View our spaces now.
 
 ### About
-https://hibernian-hall-dd175f58.zappy5.app/about
+https://example.com/about
 Learn how Hibernian Hall became a beloved venue for corporate events and personal milestones. Our story is rooted in heartfelt hospitality &amp; events, crafted to make every guest feel at home. Meet the team behind the magic.
 
 ### Contact
-https://hibernian-hall-dd175f58.zappy5.app/contact
+https://example.com/contact
 Ready to book the ideal venue for corporate events or your next baby shower? Reach out to Hibernian Hall and let our hospitality &amp; events experts craft a tailored celebration. Inquire now for availability.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://hibernian-hall-dd175f58.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://hibernian-hall-dd175f58.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://hibernian-hall-dd175f58.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://hibernian-hall-dd175f58.zappy5.app/contact
-- Endpoint: https://hibernian-hall-dd175f58.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -74,6 +74,6 @@ Hospitality & Events
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://hibernian-hall-dd175f58.zappy5.app/sitemap.xml
-- Robots: https://hibernian-hall-dd175f58.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://hibernian-hall-dd175f58.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
