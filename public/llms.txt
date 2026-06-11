@@ -1,0 +1,79 @@
+# Hibernian Hall — Generative Engine Optimization Map
+
+> An elegant Irish catering venue with a warm, sophisticated atmosphere, specializing in hosting a wide range of celebrations — from intimate bridal and baby showers to grand weddings, lively birthday parties, and polished corporate events. The venue carries a distinctly Irish charm, blending timeless elegance with heartfelt hospitality to create memorable experiences for every occasion.
+
+---
+
+## Pages
+
+### Home
+https://hibernian-hall-dd175f58.zappy5.app
+Discover Hibernian Hall, where hospitality &amp; events meet Irish charm. From corporate events to weddings, our elegant catering venue makes every occasion unforgettable. Plan your celebration today!
+
+### Events
+https://hibernian-hall-dd175f58.zappy5.app/events
+Explore our versatile catering venue for baby showers, engagement parties, and grand weddings. Blending Irish warmth with polished hospitality &amp; events, we bring your vision to life. View our spaces now.
+
+### About
+https://hibernian-hall-dd175f58.zappy5.app/about
+Learn how Hibernian Hall became a beloved venue for corporate events and personal milestones. Our story is rooted in heartfelt hospitality &amp; events, crafted to make every guest feel at home. Meet the team behind the magic.
+
+### Contact
+https://hibernian-hall-dd175f58.zappy5.app/contact
+Ready to book the ideal venue for corporate events or your next baby shower? Reach out to Hibernian Hall and let our hospitality &amp; events experts craft a tailored celebration. Inquire now for availability.
+
+## Legal & Policy
+
+### Privacy Policy
+https://hibernian-hall-dd175f58.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://hibernian-hall-dd175f58.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://hibernian-hall-dd175f58.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://hibernian-hall-dd175f58.zappy5.app/contact
+- Endpoint: https://hibernian-hall-dd175f58.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Hibernian Hall
+An elegant Irish catering venue with a warm, sophisticated atmosphere, specializing in hosting a wide range of celebrations — from intimate bridal and baby showers to grand weddings, lively birthday parties, and polished corporate events. The venue carries a distinctly Irish charm, blending timeless elegance with heartfelt hospitality to create memorable experiences for every occasion.
+
+## Target Audience
+- couples planning weddings, families celebrating milestones, corporate event planners
+- Wedding Planning Couples
+- Milestone Celebrating Families
+- Corporate Event Planners
+
+## Industry
+Hospitality & Events
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://hibernian-hall-dd175f58.zappy5.app/sitemap.xml
+- Robots: https://hibernian-hall-dd175f58.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://hibernian-hall-dd175f58.zappy5.app/llms-full.txt
